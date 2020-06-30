@@ -1,4 +1,5 @@
-#implementation of 
+#implementation of Insertion sort.
+#logic is here we take ith element and make sure that elements which are left towards ith postion are sorted .
 n=int(input("enter any n value"))
 li=[]
 print("enter {} number of elements".format(n))
